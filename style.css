@@ -1,0 +1,10 @@
+.completed {
+    color: rgb(246, 238, 5);
+    background-color: rgb(234, 116, 116);
+    /* text-decoration: line-through; */
+    font-style: italic;
+
+}
+.completed> button{
+    color: red;
+}
